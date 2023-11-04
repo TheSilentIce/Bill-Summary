@@ -1,0 +1,28 @@
+body,
+html {
+  margin: 0; 
+}
+
+
+
+.container {
+  background-image: url("../assets/Capitol_at_Dusk_2.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-color: red;
+  display: grid;
+  grid-template-rows: 1fr 7fr 1fr;
+}
+
+.attribution {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-size: 15px;
+}
+
+.link {
+  color: white;
+  font-size: 15px;
+}

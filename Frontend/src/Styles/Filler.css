@@ -1,0 +1,10 @@
+.filler {
+    padding-left: 0;
+    align-items: flex-start;
+    /* background-color: #0f543a; */
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: flex-start;
+    gap: 2rem;
+}
